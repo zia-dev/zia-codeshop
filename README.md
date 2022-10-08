@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zia-codeshop
+- 👋 Hi, I’m @zia-dev
 - 👀 I’m interested in Coding in laravel
 - 🌱 I’m currently learning laravel, VueJs etc
 - 💞️ I’m looking to collaborate on Laravel Projects
